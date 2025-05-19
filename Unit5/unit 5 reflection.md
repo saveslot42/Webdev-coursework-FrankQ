@@ -1,6 +1,7 @@
-### **Unit four reflection:**
+### **Unit five reflection:**
 
 **the picture showing me making progress:![alt text](image.png) **
-**the picture of code challenge:![alt text](image.png) **
+**the picture of code challenge:![alt text](image-1.png) **
 
-**Reflection**:In unit four, we learn more about HTML styling such as attributes, image and different kinds of lists. Attribute can be the tooltip pop out when you hover on a certain text of the website, or the different page shown when your system language is different. Insert image is just... insert a image in the website. Although we can directly use a link to refer the image, it's not stable so we rather download it to local and use relative link.
+**Reflection**:In unit five, we learn more about CSS rather than simply use "style" attribute to modify certain HTML tags. It can not only apply on almost every tag, but it also have a wide range of functions. In addition, we can use certain ways to make it apply to one typle of tag in the whole HTML page. Usually it's internal or external. They have different priority. From the lowest to the highest are: default settings, external style sheet, internal style sheet, inline attribute(highest).
+CSS can do lots of stuffs, from changing the font, to modified whole background color.

@@ -1,0 +1,1 @@
+reflection: This chapter is all about polishing, iteration and actual webpage development. Like the file structure of a series of website, or how to use display:sticky to make a navigation bar that always appear on top of the website.
